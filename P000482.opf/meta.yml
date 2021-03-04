@@ -1,16 +1,17 @@
-id: opecha:P000482
+id: P000482
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD105902
   title: སངས་རྒྱས་ཆོས་ལུགས་དང་བོད་ཀྱི་རིག་གནས་སྐོར་གླེང་བ།
-  volume:
+  author: ''
+  volumes:
     4496172497e8485b84f0b3a701264fff:
       image_group_id: I1PD105904
       title: Volume 1 of sangs rgyas chos lugs dang bod kyi rig gnas las 'phros pa'i
         gnad don skor gleng ba bden gtam
       volume_number: 1
       total_pages: 270
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སངས་རྒྱས་ཆོས་ལུགས་དང་བོད་ཀྱི་རིག་གནས་སྐོར་གླེང་བ།
   author: ''
